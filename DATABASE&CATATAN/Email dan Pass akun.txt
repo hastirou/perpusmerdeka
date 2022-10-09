@@ -1,0 +1,11 @@
+AKUN ADMIN = 
+email: admin@admin
+password: admin123
+
+AKUN PEGAWAI = 
+email: pustaka@wan
+password: 12345678
+
+AKUN USER BIASA = 
+email: user@user
+password: admin123
